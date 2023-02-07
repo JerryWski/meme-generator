@@ -13,9 +13,14 @@ main {
     font-family: 'Karla', sans-serif;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+
 }
 
 .form__input {
+    text-indent: 5px;
     font-family: 'Karla', sans-serif;
     border-radius: 5px;
     border: none;
